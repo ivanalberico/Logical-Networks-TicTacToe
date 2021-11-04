@@ -1,4 +1,4 @@
-# Logical-Networks-TicTacToe
+# Tic Tac Toe game - Logical Networks
 Graded project of the course "Logical Networks", Tongji University Shanghai (Fall 2018).  Design of the game Tic Tac Toe using digital logic components in Proteus Design Suite environment.
 
 <p align="center">
