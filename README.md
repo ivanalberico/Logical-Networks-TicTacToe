@@ -17,9 +17,8 @@ Inputs given by switches are recognized as either 1st or 2nd player move and the
 <p align="center">
   <img src="https://user-images.githubusercontent.com/64502909/140421145-c73b0315-cbe9-4d8c-abc8-389099685c1a.PNG">
   <img src="https://user-images.githubusercontent.com/64502909/140421172-68786fff-0b7a-4db0-9b98-49752b0f6872.PNG">
-  <img src="https://user-images.githubusercontent.com/64502909/140421250-67d491b0-9502-42af-a852-f56c5cbb47eb.PNG">
+  <img src="https://user-images.githubusercontent.com/64502909/140421775-f2262ed5-338d-46c4-ad20-89456fdc2c76.PNG">
+  <img src="https://user-images.githubusercontent.com/64502909/140421810-ed77cf96-2625-4ada-adb1-0a9cb35a396a.PNG">
   <img src="https://user-images.githubusercontent.com/64502909/140421316-a3988694-5f22-477e-a773-c14155fd9ac7.PNG">
   <img src="https://user-images.githubusercontent.com/64502909/140421446-cfe1ac69-f1e0-45d4-ad17-b93c04bafd07.PNG">
 </p>
-
-
